@@ -1,4 +1,3 @@
-My local ip address at school
 * 172.26.88.118/20
 
 ---
